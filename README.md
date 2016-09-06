@@ -3,11 +3,10 @@
 <img class="alignright size-full wp-image-177" title="friends" src="http://feedyourpets.com/wp-content/uploads/2012/01/friends.png" alt="" width="271" height="150" />
 <h3>Animal Communicators</h3>
 <ul>
- 	<li><strong><a href="http://www.animalconversations.com" target="_blank">Animal Conversations</a></strong>
-    <p>Contact: Jean Ussery 919-649-1253 <a href="mailto:jean@animalconversations.com">jean@animalconversations.com</a> <br/>
-     <a href="http://www.animalconversations.com">www.animalconversations.com</a><br/>
-    Jean serves a conversational go-between for you and your animals. Jean can discuss a variety of topics with your animal, such as behavior, health, or simply, "what about..." and convey your animal's viewpoint to you, strengthening your relationship and mutual respect.
-    </p>
+ 	<li>
+ 	  <p><strong><a href="http://www.animalconversations.com" target="_blank">Animal Conversations</a></strong>
+ 	  Contact: Jean Ussery 919-649-1253 <a href="mailto:jean@animalconversations.com">jean@animalconversations.com</a> <br/>
+ 	  <a href="http://www.animalconversations.com">www.animalconversations.com</a><br/>Jean serves a conversational go-between for you and your animals. Jean can discuss a variety of topics with your animal, such as behavior, health, or simply, "what about..." and convey your animal's viewpoint to you, strengthening your relationship and mutual respect.</p>
   </li>
  	<li><strong><a href="http://www.hummingbirdfarm.org" target="_blank">Hummingbird Farm</a></strong>
 Contact: Tera Thomas 919-742-5929 <a href="mailto:hummingbirdfarm@mindspring.com">hummingbirdfarm@mindspring.com</a> <br/>
