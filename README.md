@@ -4,12 +4,12 @@
 <h3>Animal Communicators</h3>
 <ul>
  	<li><strong><a href="http://www.animalconversations.com" target="_blank">Animal Conversations</a></strong>
-Contact: Jean Ussery 919-649-1253 <a href="mailto:jean@animalconversations.com">jean@animalconversations.com</a>
+Contact: Jean Ussery 919-649-1253 <a href="mailto:jean@animalconversations.com">jean@animalconversations.com</a> <br/>
     <a href="http://www.animalconversations.com">www.animalconversations.com</a>
 Jean serves a conversational go-between for you and your animals. Jean can discuss a variety of topics with your animal, such as behavior, health, or simply, "what about..." and convey your animal's viewpoint to you, strengthening your relationship and mutual respect.
   </li>
  	<li><strong><a href="http://www.hummingbirdfarm.org" target="_blank">Hummingbird Farm</a></strong>
-Contact: Tera Thomas 919-742-5929 <a href="mailto:hummingbirdfarm@mindspring.com">hummingbirdfarm@mindspring.com</a>
+Contact: Tera Thomas 919-742-5929 <a href="mailto:hummingbirdfarm@mindspring.com">hummingbirdfarm@mindspring.com</a> <br/>
     <a href="http://www.hummingbirdfarm.org">www.hummingbirdfarm.org</a>
 Hummingbird Farm is a 49 acre learning center and inspirational sanctuary where animals, humans, and the earth work in partnership. They are dedicated to deepening the understanding, respect, communication, and relationship between all living beings and the natural world around us. They are a 501(c)(3) nonprofit organization.
   </li>
@@ -18,7 +18,7 @@ Hummingbird Farm is a 49 acre learning center and inspirational sanctuary where 
 <h3>Animal Law</h3>
 <ul>
  	<li><strong><a href="http://www.animallawnc.com" target="_blank">Gerber Animal Law Center</a></strong>
-Contact: Calley Gerber, Attorney 919-510-6393 <a href="mailto:gerberanimallaw@aol.com">gerberanimallaw@aol.com</a>
+Contact: Calley Gerber, Attorney 919-510-6393 <a href="mailto:gerberanimallaw@aol.com">gerberanimallaw@aol.com</a> <br/>
     <a href="http://www.animallawnc.com" target="_blank">www.animallawnc.com</a>
 Dedicated to the protection of animals and their legal rights. We represent individual clients and animal welfare organizations in actions to protect and defend the interests and rights of animals and their owners.
   </li>
@@ -27,11 +27,11 @@ Dedicated to the protection of animals and their legal rights. We represent indi
 <h3>Apartments - Pet Friendly</h3>
 <ul>
  	<li><strong><a href="http://www.lincolngreen.com" target="_blank">Lincoln Green Apartments – Greensboro, NC</a></strong>
-Contact Rachel Abbott - (336) 282-6206; <a href="mailto:rabbott@bellpartnersinc.com">rabbott@bellpartnersinc.com</a>
+Contact Rachel Abbott - (336) 282-6206; <a href="mailto:rabbott@bellpartnersinc.com">rabbott@bellpartnersinc.com</a> <br/>
     <a href="http://www.lincolngreen.com">www.lincolngreen.com.</a>
 Lincoln Green Apartments at the Park is a 616-unit multifamily apartment complex located on the Northwest side of Greensboro. Situated on 46 acres of land, we offer newly-renovated 1 and 2 bedroom apartment homes. 
   </li>
- 	<li><strong><a href="http://www.marinerscrossingapartments.com" target="_blank">Mariners Crossing Apartment Homes - Raleigh, NC</a></strong>
+ 	<li><strong><a href="http://www.marinerscrossingapartments.com" target="_blank">Mariners Crossing Apartment Homes - Raleigh, NC</a></strong> <br/>
     <a href="http://www.marinerscrossingapartments.com/" target="_blank">www.MarinersCrossingApartments.com</a>
 Mariners Crossing's spacious 1, 2 &amp; 3 bedroom apartment homes, nestled on the corner of Creedmoor and Millbrook Roads, combine elegant, upscale details with modern conveniences. Every home includes nine-foot ceilings, brushed-nickel hardware, updated kitchen and private balcony or patio, along with a full-size washer and dryer. Our floor plans offer patio style homes and garage homes. A dog park, sparkling salt water pool, on-site fitness center and car wash station are among the many amenities offered.
   </li>
@@ -40,26 +40,26 @@ Mariners Crossing's spacious 1, 2 &amp; 3 bedroom apartment homes, nestled on th
 <h3>Daycares</h3>
 <ul>
  	<li><strong><a href="http://www.pawsatplay.com" target="_blank">Paws at Play</a></strong>
-Contact: Wake Forest: 919-566-8383 Raleigh: 919-785-9495 <a href="mailto:reception.pawsatplay@gmail.com">reception.pawsatplay@gmail.com</a>
+Contact: Wake Forest: 919-566-8383 Raleigh: 919-785-9495 <a href="mailto:reception.pawsatplay@gmail.com">reception.pawsatplay@gmail.com</a> <br/>
     <a href="http://www.pawsatplay.com" target="_blank">www.pawsatplay.com</a>
 Founded by a true animal-lover, Paws at Plays' mission is to create the ultimate accommodations for your dog, cat or other pets. Our Wake Forest - Brier Creek dog daycare and pet boarding services give each animal a high level of care and attention in a healthy, fun environment that makes them feel safe and loved.
   </li>
  	<li><strong><a href="http://www.youluckydograleigh.com" target="_blank">You Lucky Dog! Daycare and Boarding</a></strong>
-Contact: 919-788-8388 <a href="mailto:yldraleigh@gmail.com">yldraleigh@gmail.com</a>
+Contact: 919-788-8388 <a href="mailto:yldraleigh@gmail.com">yldraleigh@gmail.com</a> <br/>
     <a href="http://www.youluckydograleigh.com" target="_blank">www.youluckydograleigh.com</a>
   </li>
  	<li><strong><a href="http://www.campbowwow.com/durham" target="_blank">Camp Bow Wow-Durham</a></strong>
-Contact: 919-321-8971<a href="mailto:durham@campbowwow.com">durham@campbowwow.com</a>
+Contact: 919-321-8971<a href="mailto:durham@campbowwow.com">durham@campbowwow.com</a> <br/>
     <a href="http://www.campbowwow.com/durham" target="_blank">www.campbowwow.com/durham</a>
 Premier Doggy Day and Overnight Camp. Serving Durham and surrounding areas.
   </li>
  	<li><strong><a href="http://www.campbowwow.com/cary" target="_blank">Camp Bow Wow-Cary</a></strong>
-Contact: 919-465-4235 <a href="mailto:cary@campbowwowusa.com">cary@campbowwowusa.com</a>
+Contact: 919-465-4235 <a href="mailto:cary@campbowwowusa.com">cary@campbowwowusa.com</a> <br/>
     <a href="http://www.campbowwow.com/cary">www.campbowwow.com/cary</a>
 Premier Doggy Day and Overnight Camp. Serving Cary and surrounding areas.
   </li>
  	<li><strong><a href="http://www.suitepaws.com" target="_blank">Suite Paws - Pet Resort &amp; Spa</a></strong>
-Contact: 919-231-1112 <a href="mailto:info@suitepaws.com">info@suitepaws.com</a>
+Contact: 919-231-1112 <a href="mailto:info@suitepaws.com">info@suitepaws.com</a> <br/>
     <a href="http://www.suitepaws.com">www.suitepaws.com</a>
 Suite Paws offers a new experience in luxury for four-footed guests as we redefine
 the standards of hospitality for pets everywhere.
@@ -69,7 +69,7 @@ the standards of hospitality for pets everywhere.
 <h3>Dog Waste Removal</h3>
 <ul>
  	<li><strong><a href="http://www.poopaway.com" target="_blank">Poop Away - Pooper Scooper Service</a></strong>
-Contact: Chris 919-550-2165 <a href="mailto:chris@poopaway.com">chris@poopaway.com</a>
+Contact: Chris 919-550-2165 <a href="mailto:chris@poopaway.com">chris@poopaway.com</a> <br/>
     <a href="http://www.poopaway.com"target="_blank">www.poopaway.com</a>
 "We do our business after your pet does theirs."
   </li>
@@ -78,7 +78,7 @@ Contact: Chris 919-550-2165 <a href="mailto:chris@poopaway.com">chris@poopaway.c
 <h3>Fencing</h3>
 <ul>
  	<li><strong><a href="http://www.hiddenfencenc.com" target="_blank">Hidden Fence Co.</a></strong>
-Contact: Joanie Tyler 919-363-4900 <a href="http://www.hiddenfencenc@gmail.com">hiddenfencenc@gmail.com</a>
+Contact: Joanie Tyler 919-363-4900 <a href="http://www.hiddenfencenc@gmail.com">hiddenfencenc@gmail.com</a> <br/>
     <a href="http://www.hiddenfencenc.com" target="_blank">www.hiddenfencenc.com</a>
 Underground pet fencing featuring the PetStop brand of pet containment system.
   </li>
@@ -87,12 +87,12 @@ Underground pet fencing featuring the PetStop brand of pet containment system.
 <h3>Groomers</h3>
 <ul>
  	<li><strong><a href="http://www.petgroomertriangle.com" target="_blank">Aussie Pet Mobile</a></strong>
-Contact: Mary Anne Hubbard 919-523-9124 <a href="mailto:mhubbard@aussiepetmobile.com">mhubbard@aussiepetmobile.com</a>
+Contact: Mary Anne Hubbard 919-523-9124 <a href="mailto:mhubbard@aussiepetmobile.com">mhubbard@aussiepetmobile.com</a> <br/>
     <a href="http://www.petgroomertriangle.com" target="_blank">www.petgroomertriangle.com</a>
 We come to you...Full Service Grooming All Breeds, Cats Too!
   </li>
  	<li><strong><a href="http://www.nanhall.com" target="_blank">Nanhall Pet Spa - Serving the Triad</a></strong>
-Contact: 336-340-7915
+Contact: 336-340-7915 <br/>
     <a href="http://www.nanhall.com" target="_blank">www.nanhall.com</a>
 Since 1968, Nanhall Pet Spa has served the Triad Dog World with passion and dedication
 deeply rooted in their past. Today, Frances Keyes, ICMG, NCMG and Hayley Keyes,
@@ -101,7 +101,7 @@ Personalized Obedience Training and Winning All Breed Dog and Cat Grooming Schoo
 123 Manley Ave., Greensboro, NC 27407 
   </li>
  	<li><strong><a href="http://www.raddoggie.com" target="_blank">Rub A Dub Doggie</a></strong>
-Contact: 919-847-1199 <a href="mailto:groomer@raddoggie.com">groomer@raddoggie.com</a>
+Contact: 919-847-1199 <a href="mailto:groomer@raddoggie.com">groomer@raddoggie.com</a> <br/>
     <a href="http://.www.RADdoggie.com" target="_blank">www.RADdoggie.com</a>
 A full service grooming salon, conveniently delivered to your home.
   </li>
@@ -110,22 +110,22 @@ A full service grooming salon, conveniently delivered to your home.
 <h3>Kennels</h3>
 <ul>
  	<li><strong><a href="http://www.campbowwow.com/durham" target="_blank">Camp Bow Wow-Durham</a></strong>
-Contact: 919-321-8971<a href="mailto:durham@campbowwow.com">durham@campbowwow.com</a>
+Contact: 919-321-8971<a href="mailto:durham@campbowwow.com">durham@campbowwow.com</a> <br/>
     <a href="http://www.campbowwow.com/durham" target="_blank">www.campbowwow.com/durham</a>
 Premier Doggy Day and Overnight Camp. Serving Durham and surrounding areas.
   </li>
  	<li><strong><a href="http://www.campbowwow.com/cary" target="_blank">Camp Bow Wow-Cary</a></strong>
-Contact: 919-465-4235 <a href="mailto:cary@campbowwowusa.com">cary@campbowwowusa.com</a>
+Contact: 919-465-4235 <a href="mailto:cary@campbowwowusa.com">cary@campbowwowusa.com</a> <br/>
     <a href="http://www.campbowwow.com/cary" target="_blank">www.campbowwow.com/cary</a>
 Premier Doggy Day and Overnight Camp. Serving Cary and surrounding areas.
   </li>
  	<li><strong><a href="http://www.greenlevelkennel.com" target="_blank">Green Level Kennel</a></strong>
-Contact: Karen Johnston 919-362-7877 <a href="mailto:karen@greenlevelkennel.com">karen@greenlevelkennel.com</a>
+Contact: Karen Johnston 919-362-7877 <a href="mailto:karen@greenlevelkennel.com">karen@greenlevelkennel.com</a> <br/>
     <a href="http://www.greenlevelkennel.com" target="_blank">www.greenlevelkennel.com</a>
 Your Pet's Home Away From Home Your pets are part of the family. The Green Level Kennel family understands this, and we promise your dog or cat will be a part of our family while he's here whether it's to spend just a day or a whole vacation with us. We'd love to have you visit before you decide to leave your dog with us for day care or boarding. You'll find a clean, welcoming environment, friendly staff, and room for your little (or not so little) one to run and play.
   </li>
  	<li><strong><a href="http://www.nanhall.com" target="_blank">Nanhall Pet Spa - Serving the Triad</a></strong>
-Contact: 336-340-7915
+Contact: 336-340-7915 <br/>
     <a href="http://www.nanhall.com" target="_blank">www.nanhall.com</a>
 Since 1968, Nanhall Pet Spa has served the Triad Dog World with passion and dedication
 deeply rooted in their past. Today, Frances Keyes, ICMG, NCMG and Hayley Keyes,
@@ -134,7 +134,7 @@ Personalized Obedience Training and Winning All Breed Dog and Cat Grooming Schoo
 123 Manley Ave., Greensboro, NC 27407 
   </li>
  	<li><strong><a href="http://www.suitepaws.com" target="_blank">Suite Paws - Pet Resort &amp; Spa</a></strong>
-Contact: 919-231-1112 <a href="mailto:info@suitepaws.com">info@suitepaws.com</a>
+Contact: 919-231-1112 <a href="mailto:info@suitepaws.com">info@suitepaws.com</a> <br/>
     <a href="http://www.suitepaws.com" target="_blank">www.suitepaws.com</a>
 Suite Paws offers a new experience in luxury for four-footed guests as we redefine
 the standards of hospitality for pets everywhere.
@@ -143,12 +143,12 @@ the standards of hospitality for pets everywhere.
 <h3>Massage Therapists</h3>
 <ul>
  	<li><strong><a href="http://www.companionchi.com" target="_blank">Companion Chi</a></strong>
-Contact: Sue King 919-244-1264 <a href="mailto:smaking99@yahoo.com">smaking99@yahoo.com</a>
+Contact: Sue King 919-244-1264 <a href="mailto:smaking99@yahoo.com">smaking99@yahoo.com</a> <br/>
     <a href="http://www.companionchi.com" target="_blank">www.companionchi.com</a>
 Susan King of Companion Chi uses credible, safe, non-invasive and effective healing techniques to help create balance, health and happiness. Healing Touch for Animals(R) Massage for dogs and cats.
   </li>
  	<li><strong><a href="http://www.maryseitzmassage.com" target="_blank">Touch of Heaven</a></strong>
-Contact: Mary Seitz 919-539-6796 <a href="mailto:info@maryseitzmassage.com">info@maryseitzmassage.com</a>
+Contact: Mary Seitz 919-539-6796 <a href="mailto:info@maryseitzmassage.com">info@maryseitzmassage.com</a> <br/>
     <a href="http://www.maryseitzmassage.com" target="_blank">www.maryseitzmassage.com</a>
 Raleigh, Cary, Garner. Massage, trigger point, Reiki, cranio sacral, TFT, EFT.
   </li>
@@ -157,84 +157,83 @@ Raleigh, Cary, Garner. Massage, trigger point, Reiki, cranio sacral, TFT, EFT.
 <h3>Pet Health Insurance</h3>
 <ul>
  	<li><strong>Pet Insurance</strong>
-Contact: Sandra Ziglar <a href="petinsurance@bellsouth.net">petinsurance@bellsouth.net</a>
+Contact: Sandra Ziglar <a href="petinsurance@bellsouth.net">petinsurance@bellsouth.net</a> <br/>
 Pet Insurance protects policyholders from the expense of accident, illness and routine care treatment. From behavior training to a late night visit to the emergency clinic, you can give your pet the best care available while controlling the costs.
 </li>
 </ul>
 <h3>Pet Sitters</h3>
 <ul>
  	<li><strong><a href="http://www.abledog.com" target="_blank">Able Dog Professional Pet Sitting &amp; Dog Training</a></strong>
-Contact: 919-556-3644 
+Contact: 919-556-3644 <br/>
 <a href="http://www.abledog.com" target="_blank">www.abledog.com</a>
 Pets are happiest and most content at home in their own beds, with their own bowl and familiar surroundings. Able Dog’s personalized in-home care provides the safety and stability that retains the home/family bond, providing you peace-of-mind when you have to be away. Our pet sitters are professional, insured, bonded, pet first aid trained – and they are all passionate about animals. We don’t just provide care – we provide love. Serving Wake Forest, Youngsville, Rolesville and parts of Franklinton.
 </li>
  	<li><strong><a href="http://www.allbreedcare.com" target="_blank">All Breed Care</a></strong>
-Contact: 919-845-4553 
+Contact: 919-845-4553 <br/>
 <a href="http://www.allbreedcare.com target="_blank">www.allbreedcare.com</a>
 North Raleigh and Wake Forest. Specializing in exercise.
 <a href="http://www.allbreedcare.com">www.allbreedcare.com</a>
 </li>
  	<li><strong><a href="http://www.arkangelspetcare.com" target="_blank">Ark Angel Pet Care</a></strong>
-Contact: Nancy Stevens 919-782-5421 <a href="mailto:arkangelspetcare@gmail.com">arkangelspetcare@gmail.com</a>
+Contact: Nancy Stevens 919-782-5421 <a href="mailto:arkangelspetcare@gmail.com">arkangelspetcare@gmail.com</a> <br/>
 <a href="http://www.arkangelspetcare.com">www.arkangelspetcare.com</a>
 Northwest/Northeast and Central Raleigh. Specialize in Reiki.
 </li>
  	<li><strong><a href="http://www.boneafidepetcare.com" target="_blank">Bone-a-fide Pet Care</a></strong>
-Contact: 919-720-4156 <a href="mailto:info@boneafiedpetcare.com">info@boneafiedpetcare.com</a>
+Contact: 919-720-4156 <a href="mailto:info@boneafiedpetcare.com">info@boneafiedpetcare.com</a> <br/>
 <a href="http://www.boneafiedpetcare.com">www.boneafidepetcare.com</a>
 We are providers of professional, reliable and loving pet care and dog walking services. With 20 years experience with animals, we are here to serve your needs, 24 hours a day, 7 days a week, year round.
 </li>
  	<li><strong><a href="http://www.raleighpets.com" target="_blank">Raleigh Pet Sitters</a></strong>
-Contact: 919-605-5133 <a href="mailto:info@raleighpets.com">info@raleighpets.com</a>
+Contact: 919-605-5133 <a href="mailto:info@raleighpets.com">info@raleighpets.com</a> <br/>
 <a href="http://www.raleighpets.com" target="_blank">www.raleighpets.com</a>
 "We pride ourselves in providing loving, quality, affordable, and most of all reliable Pet Care for your best friends for all of pet sitting needs – mid-day dog walks, out of town trips, long hours at the office, help when you’re sick. Keeping your Pets Happy at Home for over 12 years!!"
 </li>
  	<li><strong><a href="http://www.fetchpetcare.com/chapel-hill-durham" target="_blank">Fetch! Pet Care of Chapel Hill and Durham</a></strong>
-Contact: Kelly Monroe 919-636-3346 
+Contact: Kelly Monroe 919-636-3346 <br/>
 <a href="http://www.FetchPetCare.com/chapel-hill-durham" target="_blank">www.FetchPetCare.com</a>
 "We understand the concerns that pet guardians and home owners face when trusting someone else to provide care for them when they can't be there. Selecting just the right pet sitter for the care of your pets and home is one of the more important decisions you will make. At Fetch! Pet Care, our goal is to make sure that plans don't get cancelled and pets don't go uncared for. Period."
 </li>
  	<li><strong><a href="https://www.care.com/b/l/furry-little-feet-pet-sitting/carrboro-nc" target="_blank">Furry Little Feet - Pet Sitting and Pet Care</a></strong>
-Contact: Heather McVicker 919-225-3609<a href="mailto:furrylittlefeetpetsitting@yahoo.com"> furrylittlefeetpetsitting@yahoo.com</a>
+Contact: Heather McVicker 919-225-3609<a href="mailto:furrylittlefeetpetsitting@yahoo.com"> furrylittlefeetpetsitting@yahoo.com</a><br/>
 Visits to Chapel Hill, Carrboro, Hillsborough and parts of Durham. Bonded and insured. Experience with pets with special needs.
 </li>
  	<li><strong><a href="http://www.happydogfun.com" target="_blank">Happy Dog Fun</a></strong>
-Contact: Karen Sprague 919-614-3647 <a href="mailto:karen@happydogfun.com">karen@happydogfun.com</a>
+Contact: Karen Sprague 919-614-3647 <a href="mailto:karen@happydogfun.com">karen@happydogfun.com</a><br/>
 <a href="http://www.happydogfun.com" target="_blank">www.happydogfun.com</a>
 Your canine companion will enjoy all the comforts of home during his/her stay at Happy Dog Fun HQ’s. Whether you are away for business or pleasure, treat your pooch to a delightful Holiday packed with days of good clean canine fun and nights teeming with sweet dreams.
 </li>
  	<li><strong><a href="http://www.ireneshappytailspetsitting.com" target="_blank">Irene's Happy Tails Pet Sitting</a></strong>
-Contact:  Irenere Fernandez  919-612-7706 <a href="mailto:ireneshappytails@icloud.com">ireneshappytails@icloud.com</a>    
+Contact:  Irenere Fernandez  919-612-7706 <a href="mailto:ireneshappytails@icloud.com">ireneshappytails@icloud.com</a><br/> 
 <a href="http://www.ireneshappytailspetsitting.com/" target="_blank">www.ireneshappytailspetsitting.com</a>
 Serving North Raleigh, Wake Forest, Youngsville and Franklinton
 </li>
  	<li><strong><a href="http://www.pawstailsanddreams.com" target="_blank">Paws, Tails and Dreams</a></strong>
-Contact: Tim Wooten 919-219-0548 <a href="mailto:dreams4josh@nc.rr.com"> dreams4josh@nc.rr.com</a>
+Contact: Tim Wooten 919-219-0548 <a href="mailto:dreams4josh@nc.rr.com"> dreams4josh@nc.rr.com</a><br/>
 <a href="http://www.pawstailsanddreams.com" target="_blank">www.pawstailsanddreams.com</a>?
 Pet Sitting, Doggie Day Care and Kennel Free Boarding. Providing service to Apex, Cary, Fuquay-Varina, Garner, Holly Springs, Raleigh and surrounding areas. Bonded, Insured and Pet CPR/First Aid certified.
 Family-owned and operated, check out their about page to read about Josh!
 </li>
  	<li><strong><a href="http://www.peakcitypuppy.com" target="_blank">PEAK CITY PUPPY</a></strong>
-Contact: 919-FOR-PETS (367-7387) <a href="mailto:info@peakcitypuppy.com">info@peakcitypuppy.com</a>
+Contact: 919-FOR-PETS (367-7387) <a href="mailto:info@peakcitypuppy.com">info@peakcitypuppy.com</a><br/>
 <a href="http://www.peakcitypuppy.com" target="_blank">www.peakcitypuppy.com</a>
 A full service professional pet care company, locally owned and operated out of Apex. Offering a variety of services to keep your pet happy and your home safe including In-Home Pet Sitting, Dog Walking Service and New Puppy Service. Services start at just $13 and are available most areas of Apex, Cary, Holly Springs, Morrisville and Raleigh.
 </li>
  	<li><strong>Pet Paradise Pet Sitters</strong>
-Contact: Duane Chier 919-414-8743 <a href="mailto:contactus@petparadisepetsitter.com">contactus@petparadisepetsitter.com</a>
+Contact: Duane Chier 919-414-8743 <a href="mailto:contactus@petparadisepetsitter.com">contactus@petparadisepetsitter.com</a><br/>
 We believe that pets are family. Whether they are furry, feathery, or otherwise, your pet's important to you. Wouldn’t you feel better knowing your pet is in his/her own environment, safe &amp; sound and will be there to greet you when you come home?
 </li>
  	<li><strong><a href="http://www.facebook.com/sonjaandshelleyjocopetsitters" target="_blank">Pet Sitting by Sonja and Shelley</a></strong>
-Contact: Shelley Strader  919-521-0592  <a href="mailto:shelleystrader@nc.rr.com">shelleystrader@nc.rr.com</a>
+Contact: Shelley Strader  919-521-0592  <a href="mailto:shelleystrader@nc.rr.com">shelleystrader@nc.rr.com</a><br/>
 We service the Clayton/Cleveland area.  Our services are pet visits and daily walks for all types of animals, even chickens and horses.  Sonja does stay in the client's home if needed.  All services are done at the client's home.  References upon request.  Visit our Facebook page - <a href="https://www.facebook.com/sonjaandshelleyjocopetsitters" target="_blank">Pet Sitting by Sonja and Shelley</a>
 </li>
- 
  	<li><strong><a href="http://www.rcatsanddogspetsitting.com" target="_blank">Reining Cats and Dogs Pet Sitting</a></strong>
-Contact: Denise Doll 919-280-0186 <a href="mailto:ddoll@rcatsanddogspetsitting.com">ddoll@rcatsanddogspetsitting.com</a>
+Contact: Denise Doll 919-280-0186 <a href="mailto:ddoll@rcatsanddogspetsitting.com">ddoll@rcatsanddogspetsitting.com</a><br/>
 <a href="http://www.rcatsanddogspetsitting.com" target="_blank">www.rcatsanddogspetsitting.com</a>
 We service Northwest Raleigh and East Durham along Highway 98 towards Wake Forest for all domestic pets. We specialize in horse care. The owner has extensive schooling in this area. We service several counties for this niche market.
 </li>
  	<li><strong><a href="http://www.trianglepetcare.com" target="_blank">Triangle Pet Care</a></strong>
-Contact: Loretta Miller 919-358-5271 <a href="mailto:loretta@trianglepetcare.com"> loretta@trianglepetcare.com</a>        
+Contact: Loretta Miller 919-358-5271 <a href="mailto:loretta@trianglepetcare.com"> loretta@trianglepetcare.com</a><br/>
 <a href="http://www.trianglepetcare.com" target="_blank">www.trianglepetcare.com</a>
 Coverage area:  South Durham/South Point/RTP Dog walking and Pet Care is not the same for everyone, we will customize a plan to fit your needs. Certified in Dog and Cat CPR and first aid.
 </li>
