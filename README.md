@@ -6,7 +6,7 @@
  	<li><strong><a href="http://www.animalconversations.com" target="_blank">Animal Conversations</a></strong>
 Contact: Jean Ussery 919-649-1253 <a href="mailto:jean@animalconversations.com">jean@animalconversations.com</a> <br/>
     <a href="http://www.animalconversations.com">www.animalconversations.com</a>
-Jean serves a conversational go-between for you and your animals. Jean can discuss a variety of topics with your animal, such as behavior, health, or simply, "what about..." and convey your animal's viewpoint to you, strengthening your relationship and mutual respect.
+<p>Jean serves a conversational go-between for you and your animals. Jean can discuss a variety of topics with your animal, such as behavior, health, or simply, "what about..." and convey your animal's viewpoint to you, strengthening your relationship and mutual respect.</p>
   </li>
  	<li><strong><a href="http://www.hummingbirdfarm.org" target="_blank">Hummingbird Farm</a></strong>
 Contact: Tera Thomas 919-742-5929 <a href="mailto:hummingbirdfarm@mindspring.com">hummingbirdfarm@mindspring.com</a> <br/>
