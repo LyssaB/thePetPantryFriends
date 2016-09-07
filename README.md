@@ -233,7 +233,7 @@ Premier Doggy Day and Overnight Camp. Serving Durham and surrounding areas.</p>
  	<li>
  	 <h4><a href="http://www.ireneshappytailspetsitting.com" target="_blank">Irene's Happy Tails Pet Sitting</a></h4>
    <p>Contact:  Irenere Fernandez  919-612-7706 <a href="mailto:ireneshappytails@icloud.com">ireneshappytails@icloud.com</a><br/> 
-   <a href="http://www.ireneshappytailspetsitting.com/" target="_blank">www.ireneshappytailspetsitting.com</a> <br/>
+   <a href="http://www.ireneshappytailspetsitting.com/" target="_blank">www.ireneshappytailspetsitting.com</a><br/>
    Serving North Raleigh, Wake Forest, Youngsville and Franklinton</p>
 </li>
  	<li>
@@ -244,7 +244,7 @@ Premier Doggy Day and Overnight Camp. Serving Durham and surrounding areas.</p>
 Family-owned and operated, check out their about page to read about Josh!</p>
 </li>
  	<li>
- 	 <h4><a href="http://www.peakcitypuppy.com" target="_blank">PEAK CITY PUPPY</a></h4>
+ 	 <h4><a href="http://www.peakcitypuppy.com" target="_blank">Peak City Puppy</a></h4>
    <p>Contact: 919-FOR-PETS (367-7387) <a href="mailto:info@peakcitypuppy.com">info@peakcitypuppy.com</a><br/>
    <a href="http://www.peakcitypuppy.com" target="_blank">www.peakcitypuppy.com</a> <br/>
    A full service professional pet care company, locally owned and operated out of Apex. Offering a variety of services to keep your pet happy and your home safe including In-Home Pet Sitting, Dog Walking Service and New Puppy Service. Services start at just $13 and are available most areas of Apex, Cary, Holly Springs, Morrisville and Raleigh. </p>
