@@ -90,7 +90,7 @@ Premier Doggy Day and Overnight Camp. Serving Durham and surrounding areas.</p>
 <ul>
  	<li>
  	 <h4><a href="http://www.hiddenfencenc.com" target="_blank">Hidden Fence Co.</a></h4>
-   <p>Contact: Joanie Tyler 919-363-4900 <a href="http://www.hiddenfencenc@gmail.com">hiddenfencenc@gmail.com</a> <br/>
+   <p>Contact: Joanie Tyler 919-363-4900 <a href="mailto:hiddenfencenc@gmail.com">hiddenfencenc@gmail.com</a> <br/>
    <a href="http://www.hiddenfencenc.com" target="_blank">www.hiddenfencenc.com</a> <br/>
    Underground pet fencing featuring the PetStop brand of pet containment system.</p>
   </li>
