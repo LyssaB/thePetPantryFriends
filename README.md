@@ -36,7 +36,7 @@ Dedicated to the protection of animals and their legal rights. We represent indi
    Lincoln Green Apartments at the Park is a 616-unit multifamily apartment complex located on the Northwest side of Greensboro. Situated on 46 acres of land, we offer newly-renovated 1 and 2 bedroom apartment homes.</p>
   </li>
  	<li>
- 	 <h4><a href="http://www.marinerscrossingapartments.com" target="_blank">Mariners Crossing Apartment Homes - Raleigh, NC</a></h4> <br/>
+ 	 <h4><a href="http://www.marinerscrossingapartments.com" target="_blank">Mariners Crossing Apartment Homes - Raleigh, NC</a></h4>
    <p><a href="http://www.marinerscrossingapartments.com/" target="_blank">www.MarinersCrossingApartments.com</a><br/>
 Mariners Crossing's spacious 1, 2 &amp; 3 bedroom apartment homes, nestled on the corner of Creedmoor and Millbrook Roads, combine elegant, upscale details with modern conveniences. Every home includes nine-foot ceilings, brushed-nickel hardware, updated kitchen and private balcony or patio, along with a full-size washer and dryer. Our floor plans offer patio style homes and garage homes. A dog park, sparkling salt water pool, on-site fitness center and car wash station are among the many amenities offered.</p>
   </li>
@@ -254,138 +254,171 @@ Family-owned and operated, check out their about page to read about Josh!</p>
    <p>Contact: Duane Chier 919-414-8743 <a href="mailto:contactus@petparadisepetsitter.com">contactus@petparadisepetsitter.com</a><br/>
    We believe that pets are family. Whether they are furry, feathery, or otherwise, your pet's important to you. Wouldn’t you feel better knowing your pet is in his/her own environment, safe &amp; sound and will be there to greet you when you come home? </p>
 </li>
- 	<li><strong><a href="http://www.facebook.com/sonjaandshelleyjocopetsitters" target="_blank">Pet Sitting by Sonja and Shelley</a></strong>
-Contact: Shelley Strader  919-521-0592  <a href="mailto:shelleystrader@nc.rr.com">shelleystrader@nc.rr.com</a><br/>
-We service the Clayton/Cleveland area.  Our services are pet visits and daily walks for all types of animals, even chickens and horses.  Sonja does stay in the client's home if needed.  All services are done at the client's home.  References upon request.  Visit our Facebook page - <a href="https://www.facebook.com/sonjaandshelleyjocopetsitters" target="_blank">Pet Sitting by Sonja and Shelley</a>
+ 	<li>
+ 	 <h4><a href="http://www.facebook.com/sonjaandshelleyjocopetsitters" target="_blank">Pet Sitting by Sonja and Shelley</a></h4>
+   <p>Contact: Shelley Strader-919-521-0592 <a href="mailto:shelleystrader@nc.rr.com">shelleystrader@nc.rr.com</a><br/>
+   We service the Clayton/Cleveland area.  Our services are pet visits and daily walks for all types of animals, even chickens and horses. Sonja does stay in the client's home if needed. All services are done at the client's home. References upon request. Visit our Facebook page - <a href="https://www.facebook.com/sonjaandshelleyjocopetsitters" target="_blank">Pet Sitting by Sonja and Shelley</a></p>
 </li>
- 	<li><strong><a href="http://www.rcatsanddogspetsitting.com" target="_blank">Reining Cats and Dogs Pet Sitting</a></strong>
-Contact: Denise Doll 919-280-0186 <a href="mailto:ddoll@rcatsanddogspetsitting.com">ddoll@rcatsanddogspetsitting.com</a><br/>
-<a href="http://www.rcatsanddogspetsitting.com" target="_blank">www.rcatsanddogspetsitting.com</a>
-We service Northwest Raleigh and East Durham along Highway 98 towards Wake Forest for all domestic pets. We specialize in horse care. The owner has extensive schooling in this area. We service several counties for this niche market.
+ 	<li>
+ 	 <h4><a href="http://www.rcatsanddogspetsitting.com" target="_blank">Reining Cats and Dogs Pet Sitting</a></h4>
+   <p>Contact: Denise Doll 919-280-0186 <a href="mailto:ddoll@rcatsanddogspetsitting.com">ddoll@rcatsanddogspetsitting.com</a><br/>
+   <a href="http://www.rcatsanddogspetsitting.com" target="_blank">www.rcatsanddogspetsitting.com</a> <br/>
+   We service Northwest Raleigh and East Durham along Highway 98 towards Wake Forest for all domestic pets. We specialize in horse care. The owner has extensive schooling in this area. We service several counties for this niche market.</p>
 </li>
- 	<li><strong><a href="http://www.trianglepetcare.com" target="_blank">Triangle Pet Care</a></strong>
-Contact: Loretta Miller 919-358-5271 <a href="mailto:loretta@trianglepetcare.com"> loretta@trianglepetcare.com</a><br/>
-<a href="http://www.trianglepetcare.com" target="_blank">www.trianglepetcare.com</a>
-Coverage area:  South Durham/South Point/RTP Dog walking and Pet Care is not the same for everyone, we will customize a plan to fit your needs. Certified in Dog and Cat CPR and first aid.
+ 	<li>
+ 	 <h4><a href="http://www.trianglepetcare.com" target="_blank">Triangle Pet Care</a></h4>
+   <p>Contact: Loretta Miller 919-358-5271 <a href="mailto:loretta@trianglepetcare.com"> loretta@trianglepetcare.com</a><br/>
+   <a href="http://www.trianglepetcare.com" target="_blank">www.trianglepetcare.com</a> <br/>
+   Coverage area:  South Durham/South Point/RTP Dog walking and Pet Care is not the same for everyone, we will customize a plan to fit your needs. Certified in Dog and Cat CPR and first aid. </p>
 </li>
- 	<li><strong>Sleepeaszz</strong>
-Contact: Mardella &amp; Neil Berg 919-606-2907 <a href="mailto:sleepeaszz@nc.rr.com">sleepeaszz@nc.rr.com</a>
-<a href="http://sleepeaszz@nc.rr.com" target="_blank">www.sleepeaszz.com</a>
-In-home cat sitting and house sitting services. Certificed in first aid and CPR.
+ 	<li>
+ 	 <h4><a href="http://sleepeaszz.com" target="_blank">Sleepeaszz</a></h4>
+   <p>Contact: Mardella &amp; Neil Berg 919-606-2907 <a href="mailto:sleepeaszz@nc.rr.com">sleepeaszz@nc.rr.com</a>
+   <a href="http://sleepeaszz.com" target="_blank">www.sleepeaszz.com</a>
+   In-home cat sitting and house sitting services. Certificed in first aid and CPR.</p>
 </li>
- 	<li><strong><a href="http://www.vippetsitting.com" target="_blank">Very Important Pets</a></strong>
-Contact: Gene Crowder 919-419-1647
-<a href="http://www.vippetsitting.com" target="_blank">www.vippetsitting.com</a>
-Since 1991, Very Important Pets has been a full service pet and home care company. We serve the North Raleigh, West Raleigh, Briar Creek, Durham, Chapel Hill/Carrboro, Hillsborough, Cary, Apex, and Holly Springs areas. Bonded and insured.
+ 	<li>
+ 	 <h4><a href="http://www.vippetsitting.com" target="_blank">Very Important Pets</a></h4>
+   <p>Contact: Gene Crowder 919-419-1647 <br/>
+   <a href="http://www.vippetsitting.com" target="_blank">www.vippetsitting.com</a> <br/>
+   Since 1991, Very Important Pets has been a full service pet and home care company. We serve the North Raleigh, West Raleigh, Briar Creek, Durham, Chapel Hill/Carrboro, Hillsborough, Cary, Apex, and Holly Springs areas. Bonded and insured. </p>
 </li>
- 	<li><strong><a href="http://www.winghoofandpaws.com" target="_blank">Wing, Hoof, and Paws Animal Companion Services</a></strong>
-Contact: 919-818-5013 <a href=http://www.winghoofandpaws.com/contact" target="_blank">Contact Form</a>
-<a href="http://www.winghoofandpaws.net" target="_blank">www.winghoofandpaws.net</a>
-Orange, Durham and Chatham Counties, Apex and Cary. Specialize in equine care, elder animal care, critical care and overnights.
+ 	<li>
+ 	 <h4><a href="http://www.winghoofandpaws.com" target="_blank">Wing, Hoof, and Paws Animal Companion Services</a></h4>
+   <p>Contact: 919-818-5013 <a href="http://www.winghoofandpaws.com/contact" target="_blank">Contact Form</a> <br/>
+   <a href="http://www.winghoofandpaws.net" target="_blank">www.winghoofandpaws.net</a><br/>
+   Orange, Durham and Chatham Counties, Apex and Cary. Specialize in equine care, elder animal care, critical care and overnights.</p>
 </li>
-<li><strong>Oasis Pet Sitting</strong>
-Contact: April Rehbein 919-467-7452 
-Cary, Apex, Morrisville and parts of Raleigh.
+<li>
+ <h4>Oasis Pet Sitting</h4>
+ <p>Contact: April Rehbein 919-467-7452 <br/>
+ Cary, Apex, Morrisville and parts of Raleigh.</p>
 </li>
- 	<li><strong>Pampered Paws</strong>
-Contact: Stephanie Willard 919-859-3404
-Serving homes in Apex, Cary, Holly Springs &amp; West Raleigh.
-For loving in home Pet Care call Stephanie.
-<a href="http://www.pamperedpawspetsittingnc.com" target="_blank">www.pamperedpawspetsittingnc.com</a>
+ 	<li>
+ 	<h4><a href="http://www.pamperedpawspetsittingnc.com" target="_blank">Pampered Paws</a></h4>
+   <p>Contact: Stephanie Willard 919-859-3404 <br/>
+   <a href="http://www.pamperedpawspetsittingnc.com" target="_blank">www.pamperedpawspetsittingnc.com</a> <br/>
+   Serving homes in Apex, Cary, Holly Springs &amp; West Raleigh. For loving in home Pet Care call Stephanie.</p>
 </li>
 </ul>
 <h3>Pet Transport</h3>
 <ul>
- 	<li><strong>Critter Coach</strong>
-Contact: Dennis Money 919-876-3788 <a href="mailto:critterrides@aol.com">critterrides@aol.com</a>
-Pet taxi, emergency transport.
-</li>
- 	<li><strong>Triangle Pet Care
-</strong>Contact: Loretta Miller 919-358-5271     <a href="mailto:loretta@trianglepetcare.com>loretta@trianglepetcare.com</a>        
-<a href="http://www.trianglepetcare.com" target="_blank">www.trianglepetcare.com</a>
-Coverage area:  South Durham/South Point/RTP
-Pet Taxi Service to Groomers, Training Classes, Vet Appointments and more!
-Always customized to fit your needs.</li>
+ 	<li>
+ 	<h4>Critter Coach</h4>
+   <p>Contact: Dennis Money 919-876-3788 <a href="mailto:critterrides@aol.com">critterrides@aol.com</a> <br/>
+   Pet taxi, emergency transport.</p>>
+  </li>
+ 	<li>
+ 	 <h4><a href="http://www.trainglepetcare.com" target="_blank">Triangle Pet Care</a></h4> 
+ 	 <p>Contact: Loretta Miller 919-358-5271 <a href="mailto:loretta@trianglepetcare.com">loretta@trianglepetcare.com</a> <br/>
+   <a href="http://www.trianglepetcare.com" target="_blank">www.trianglepetcare.com</a> <br/>
+   Coverage area:  South Durham/South Point/RTP. Pet Taxi Service to Groomers, Training Classes, Vet Appointments and more! Always customized to fit your needs.</p>
+  </li>
 </ul>
 <h3>Photographers</h3>
 <ul>
-        <li><strong><a href="http://www.furfetched.com" target="_blank">Fur-Fetched Photography</a></strong>
-Contact: Irene Cotter 919-740-1407 <a href="mailto:irene@furfetched.com">irene@furfetched.com</a>
-<a href="http://www.FurFetched.com" target="_blank">www.FurFetched.com</a>
-"I live in Raleigh NC and travel in the southeast US, primarily Virginia, South Carolina, and Georgia, and to Indianapolis IN for the CanAm Flyball tournament. If you like my images and would like me to photograph your event please contact me."
-</li>
- 	<li><strong>Photography by Diane Lewis</strong>
-Contact: Diane Lewis 919-345-1041 <a href="mailto:diane@dianelewisphotography.com">diane@dianelewisphotography.com</a>
-<a href="http://www.dianelewisphotography.com" target="_blank">www.dianelewisphotography.com</a>
+ <li>
+  <h4><a href="http://www.furfetched.com" target="_blank">Fur-Fetched Photography</a></h4>
+   <p>Contact: Irene Cotter 919-740-1407 <a href="mailto:irene@furfetched.com">irene@furfetched.com</a> <br/>
+   <a href="http://www.FurFetched.com" target="_blank">www.FurFetched.com</a> <br/>
+   "I live in Raleigh NC and travel in the southeast US, primarily Virginia, South Carolina, and Georgia, and to Indianapolis, IN for the CanAm Flyball tournament. If you like my images and would like me to photograph your event, please contact me!"</p>
+ </li>
+ <li>
+ 	<h4><a href="http://www.dianelewisphotography.com" target="_blank">Photography by Diane Lewis</a></h4>
+  <p>Contact: Diane Lewis 919-345-1041 <a href="mailto:diane@dianelewisphotography.com">diane@dianelewisphotography.com</a> <br/>
+  <a href="http://www.dianelewisphotography.com" target="_blank">www.dianelewisphotography.com</a></p>
 </li>
 </ul>
 <h3>Portraits</h3>
 <ul>
- 	<li><strong><a href="http://www.lauriegayle.com" target="_blank">Animal Portraits</a></strong>
-Contact: Laurie Gayle 919-847-0585 <a href="mailto:laurieagayle@aol.com">laurieagayle@aol.com</a>
-<a href="http://www.lauriegayle.com" target="_blank">www.lauriegayle.com</a>
-Lifelike oil, water color and color pencil. Old master contemporary techniques.
+ 	<li>
+ 	 <h4><a href="http://www.lauriegayle.com" target="_blank">Animal Portraits</a></h4>
+   <p>Contact: Laurie Gayle 919-847-0585 <a href="mailto:laurieagayle@aol.com">laurieagayle@aol.com</a> <br/>
+   <a href="http://www.lauriegayle.com" target="_blank">www.lauriegayle.com</a> <br/>
+   Lifelike oil, water color and color pencil. Old master contemporary techniques.</p>
 </li>
- 	<li><strong><a href="http://www.weinsteinart.com" target="_blank">Emily Weinstein's Studio/Gallery - Chapel Hill, NC</a></strong>
-Contact: Emily Weinstein 919-402-0160 <a href="mailto:weinsteinart@gmail.com">weinsteinart@gmail.com</a>
-<a href="http://www.WeinsteinArt.com">www.WeinsteinArt.com</a>Paintings, Sculpture, Jewelry, Cards &amp; Art
+ 	<li>
+ 	 <h4><a href="http://www.weinsteinart.com" target="_blank">Emily Weinstein's Studio/Gallery - Chapel Hill, NC</a></h4>
+   <p>Contact: Emily Weinstein 919-402-0160 <a href="mailto:weinsteinart@gmail.com">weinsteinart@gmail.com</a><br/>
+   <a href="http://www.WeinsteinArt.com">www.WeinsteinArt.com</a><br/>
+   Paintings, Sculpture, Jewelry, Cards &amp; Art</p>
 </li>
- 	<li><strong><a href="http://www.whitetigerstudio.com"White Tiger Studio</strong>
-Contact: Pamela Baldwin 919-845-6422 <a href="mailto:pam@pamelabaldwin.com">pam@pamelabaldwin.com</a>
-Commissioned portraits of in various mediums.
-<a href="http://www.whitetigerstudio.com" target="_blank">www.whitetigerstudio.com</a>
+<li>
+ 	 <h4><a href="http://www.whitetigerstudio.com" target="_blank">White Tiger Studio</a></h4>
+   <p>Contact: Pamela Baldwin 919-845-6422 <a href="mailto:pam@pamelabaldwin.com">pam@pamelabaldwin.com</a> <br/>
+   <a href="http://www.whitetigerstudio.com" target="_blank">www.whitetigerstudio.com</a><br/>
+   Commissioned portraits of in various mediums.</p>
 </li>
 </ul>
 
 <h3>Rescue Groups</h3>
 
 <ul>
- 	<li><strong><a href="http://apsofdurham.org" target="_blank">Animal Protection Society of Durham</a></strong>
-Contact: 919-560-0640
-<a href="http://www.apsofdurham.org" target="_blank">www.apsofdurham.org</a>
-2117 E. Club Blvd. Durham, NC 27704
-The Animal Protection Society of Durham has been helping animals since 1970. The APS of Durham is a non-profit organization dedicated to protecting and providing shelter for all animals. Their mission is to educate the public about the humane care and treatment of animals, promote spay/neuter and encourage the adoption of homeless animals.
+ <li>
+  <h4><a href="http://apsofdurham.org" target="_blank">Animal Protection Society of Durham</a></h4>
+  <p>Contact: 919-560-0640 <br/>
+  <a href="http://www.apsofdurham.org" target="_blank">www.apsofdurham.org</a> <br/>
+  2117 E. Club Blvd. Durham, NC 27704 <br/>
+  The Animal Protection Society of Durham has been helping animals since 1970. The APS of Durham is a non-profit organization dedicated to protecting and providing shelter for all animals. Their mission is to educate the public about the humane care and treatment of animals, promote spay/neuter and encourage the adoption of homeless animals.</p>
+ </li>
+ <li>
+  <h4><a href="http://www.bfpa.org" target="_blank">Best Friend Pet Adoption (BFPA)</a></h4>
+  <p>Contact: 919-661-1722 <br/>
+  <a href="http://www.bfpa.org" target="_blank">www.bfpa.org</a><br/>
+  BFPA is a no-kill animal rescue organization with no building, office or shelter. They are an all-foster network committed to helping cats and dogs in need. Individual donations are very important source of income as they receive no public funding. Their purpose is to provide medical assistance, foster homes and adoption services to lost, abandoned, abused or neglected animals in Wake County, NC and surrounding counties.</p>
+ </li>
+ <li>
+  <h4><a href="http://www.facebook.com/bbpr.mi" target="_blank">Best Buddies Companion Rescue &amp; Adoption</a></h4>
+  <p>Contact: 919-882-0001 <a href="mailto:bestbuddypetrescue@yahoo.com">bestbuddypetrescue@yahoo.com</a><br/>
+  <a href="http://www.facebook.com/bbpr.mi" target="_blank">www.facebook.com/bbpr.mi</a><br/>
+  Best Buddies is a dedicated group of volunteers and foster homes located in and around Pittsboro, NC with a shared vision of doing all that we can to find forever homes for homeless animals.</p>
+ </li>
+ <li>
+  <h4><a href="http://www.goldenrescuenc.org" target="_blank">Neuse River Golden Retriever Rescue</a></h4>
+  <p>Contact: 919-882-0001 <a href="mailto:nrgrr@homail.com">NRGRR@hotmail.com</a><br/>
+  <a href="http://www.goldenrescuenc.org" target="_blank">www.goldenrescuenc.org</a><br/>
+  NRGRR PO Box 37156, Raleigh NC 27627<br/>
+  NRGRR Inc. is a non=profit 501(c)(3) organization dedicated to finding permanent homes for golden retrievers in need. NRGRR is managed and run by volunteers whose efforts are dedicated to preserving the breed.</p>
+ </li>
+ <!--Can't find this rescue anymore 
+ <li>
+  <h4><a href="http://www.ncrottierescue.net" target="_blank">North Carolina Rottweiler Rescue</a></h4>
+  <p>Contact: <a href="mailto:ncrottierescue@gmail.com">ncrottierescue@gmail.com</a><br/>
+  <a href="http://www.ncrottierescue.net">www.ncrottierescue.net</a><br/>
+  The NCRR is an independent, non-profit, organization dedicated to the rescue of Rottweilers. We are in, fact, the only Rottweiler Rescue based in Raleigh, NC. We depend solely on our volunteers to educate the public about this strong and loving breed, to successfully rehabilitate dogs through foster care, and ultimately, to find "forever" homes for rescued dogs. We are currently in need of foster homes. Every week, NCRR turns away shelter dogs due to lack of space and we can only save the amount of dogs we have fosters for.</p>
 </li>
- 	<li><strong><a href="http://www.bfpa.org" target="_blank">Best Friend Pet Adoption (BFPA)</a></strong>
-Contact: 919-661-1722
-<a href="http://www.bfpa.org" target="_blank">www.bfpa.org</a>
-BFPA is a no-kill animal rescue organization with no building, office or shelter. They are an all-foster network committed to helping cats and dogs in need. Individual donations are very important source of income as they receive no public funding. Their purpose is to provide medical assistance, foster homes and adoption services to lost, abandoned, abused or neglected animals in Wake County, NC and surrounding counties.
-</li>
- 	<li><strong><a href="http://www.facebook.com/bbpr.mi" target="_blank">Best Buddies Companion Rescue &amp; Adoption</a></strong>
-Contact: 919-882-0001 <a href="mailto:bestbuddypetrescue@yahoo.com">bestbuddypetrescue@yahoo.com</a>
-<a href="http://www.facebook.com/bbpr.mi" target="_blank">www.facebook.com/bbpr.mi</a>
-Best Buddies is a dedicated group of volunteers and foster homes located in and around Pittsboro, NC with a shared vision of doing all that we can to find forever homes for homeless animals.
-</li>
- 	<li><strong><a href="http://www.goldenrescuenc.org" target="_blank">Neuse River Golden Retriever Rescue</a></strong>
-Contact: 919-882-0001 <a href="mailto:nrgrr@homail.com">NRGRR@hotmail.com</a>
-<a href="http://www.goldenrescuenc.org" target="_blank">www.goldenrescuenc.org</a>
-NRGRR PO Box 37156, Raleigh NC 27627
-NRGRR Inc. is a non=profit 501(c)(3) organization dedicated to finding permanent homes for golden retrievers in need. NRGRR is managed and run by volunteers whose efforts are dedicated to preserving the breed.
-</li>
- 	<li><strong>North Carolina Rottweiler Rescue</strong>
-Contact: <a href="mailto:ncrottierescue@gmail.com">ncrottierescue@gmail.com</a>
-The NCRR is an independent, non-profit, organization dedicated to the rescue of Rottweilers. We are in, fact, the only Rottweiler Rescue based in Raleigh, NC. We depend solely on our volunteers to educate the public about this strong and loving breed, to successfully rehabilitate dogs through foster care, and ultimately, to find "forever" homes for rescued dogs. We are currently in need of foster homes. Every week, NCRR turns away shelter dogs due to lack of space and we can only save the amount of dogs we have fosters for.
-<a href="http://www.ncrottierescue.net">www.ncrottierescue.net</a></li>
+-->
+ 	<!--
  	<li><strong>Palisades Animal Rescue</strong>
 <a href="mailto:palisadesrescue@gmail.com">palisadesrescue@gmail.com</a>
 Our rescue started during the summer of 2004 with a focus on cat and kitten rescue. In late 2006, we opened a sanctuary program for cats that are not adoptable or have been in the rescue for more than 3 years. In late 2007, we began our dog department which works to find homes for both dogs and puppies. We are currently working on adding a program for feral cats in the community.
 <a href="http://www.palisadesrescue.org">www.palisadesrescue.org</a></li>
- 	<li><strong>Pawfect Match</strong>
-Contact: 919-303-1976 <a href="mailto:pawfectmatch@gmail.com">pawfectmatch@gmail.com</a>
-We take a different approach to rescue. We don’t try to save the masses; we just save ONE at a time and make them the best dog they can be by the time they find their forever homes.
-www.pawfectmatch.org</li>
- 	<li><strong>Second Chance Pet Adoptions</strong>
-Contact: 919-851-8404 <a href="mailto:secondchance@secondchancenc.org">secondchance@secondchancenc.org</a>
-6003 Chapel Hill Rd., Suite 133 Raleigh, NC 27607 (1 mile west of the State Fair Grounds) Second Chance Pet Adoptions is a non-profit animal rescue organization that has rescued homeless cats and dogs of the triangle area of North Carolina since 1989.
-<a href="http://www.secondchancenc.org">www.secondchancenc.org</a></li>
- 	<li><strong>SPCA of Wake County</strong>
-Contact: 919-772-2326 <a href="mailto:adoptstaff@spcawake.org">adoptstaff@spcawake.org</a>
-Founded in Raleigh in 1967, the Society for the Prevention of Cruelty to Animals (SPCA) of Wake County is dedicated to creating a more humane community where every adoptable animal has a home. Each year the SPCA rehomes over 3,000 animals through its innovative adoption programs and lost and found efforts!
-<a href="http://www.spcawake.org">www.spcawake.org</a></li>
- 	<li><strong>Sound Pet Animal Rescue &amp; Referral - S.P.A.R.R.</strong>
-Contact: 919-851-4114
-Sound Pet Animal Rescue and Referral (SPARR) is a 501c3 non-profit, volunteer-run organization concerned with the welfare of dogs and cats. SPARR started its rescue in late 2005. We rescue stray and abandoned dogs and cats from high-kill shelters place them in caring foster homes and then adopt them into loving, life-long homes.
-<a href="http://www.soundpet.org">www.soundpet.org</a></li>
+-->
+ 	<li>
+ 	 <h4><a href="http://www.pawfectmatch.org" target="_blank">Pawfect Match</a></h4>
+   <p>Contact: 919-303-1976 <a href="mailto:pawfectmatch@gmail.com">pawfectmatch@gmail.com</a><br/>
+   <a href="http://www.pawfectmatch.org" target="_blank">www.pawfectmatch.org</a> <br/>
+   "We take a different approach to rescue. We don’t try to save the masses; we just save ONE at a time and make them the best dog they can be by the time they find their forever homes."</p>
+  </li>
+ 	<li>
+ 	 <h4><a href="http://www.secondchancenc.org" target="_blank">Second Chance Pet Adoptions</a></h4>
+   <p>Contact: 919-851-8404 <a href="mailto:secondchance@secondchancenc.org">secondchance@secondchancenc.org</a> <br/>
+   6003 Chapel Hill Rd., Suite 133 Raleigh, NC 27607 (1 mile west of the State Fair Grounds)<br/>
+   <a href="http://www.secondchancenc.org" target="_blank">www.secondchancenc.org"</a>
+   Second Chance Pet Adoptions is a non-profit animal rescue organization that has rescued homeless cats and dogs of the triangle area of North Carolina since 1989.</p>
+  </li>
+ 	<li>
+ 	 <h4><a href="http://www.spcawake.org" target="_blank">SPCA of Wake County</a></h4>
+   <p>Contact: 919-772-2326 <a href="mailto:adoptstaff@spcawake.org">adoptstaff@spcawake.org</a><br/>
+   <a href="http://www.spcawake.org" target="_blank">www.spcawake.org</a><br/>
+   Founded in Raleigh in 1967, the Society for the Prevention of Cruelty to Animals (SPCA) of Wake County is dedicated to creating a more humane community where every adoptable animal has a home. Each year the SPCA rehomes over 3,000 animals through its innovative adoption programs and lost and found efforts!</p>
+</li>
+ 	<li>
+ 	 <h4><a href="http://www.soundpet.org" target="_blank">Sound Pet Animal Rescue &amp; Referral - S.P.A.R.R.</a></h4>
+   <p>Contact: 919-851-4114 <br/>
+   <a href="http://www.soundpet.org" target="_blank">www.soundpet.org</a><br/>
+   Sound Pet Animal Rescue and Referral (SPARR) is a 501c3 non-profit, volunteer-run organization concerned with the welfare of dogs and cats. SPARR started its rescue in late 2005. We rescue stray and abandoned dogs and cats from high-kill shelters place them in caring foster homes and then adopt them into loving, life-long homes.</p>
+</li>
 </ul>
 <h3>Trainers</h3>
 <ul>
