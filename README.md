@@ -306,7 +306,7 @@ Family-owned and operated, check out their about page to read about Josh!</p>
  	<li>
  	<h4>Critter Coach</h4>
    <p>Contact: Dennis Money 919-876-3788 <a href="mailto:critterrides@aol.com">critterrides@aol.com</a> <br/>
-   Pet taxi, emergency transport.</p>>
+   Pet taxi, emergency transport.</p>
   </li>
  	<li>
  	 <h4><a href="http://www.trainglepetcare.com" target="_blank">Triangle Pet Care</a></h4> 
@@ -422,74 +422,109 @@ Our rescue started during the summer of 2004 with a focus on cat and kitten resc
 </ul>
 <h3>Trainers</h3>
 <ul>
-<ul>
- 	<li><strong>Able Dog</strong>
-Contact: Elaine Chevalier 919-210-7682 <a href="mailto:abledognc@hotmail.com">abledognc@hotmail.com</a>
-Wake Forest and surrounding communities. Specialize in clicker training.</li>
-</ul>
- 	<li><strong>Best Paw Forward Dog Education</strong>
-Contact: Frank Verni 919-557-2853 <a href="mailto:abledognc@hotmail.com">info@bestpawonline.com</a>
-Fuquay Varina, Holly Springs, Apex, Cary, Southwest Raleigh
-Behavior problems, obedience, manners for puppies and adults.
+ 	<li>
+ 	 <h4><a href="http://www.abledog.com" target="_blank">Able Dog Professional Pet Sitting &amp; Dog Training</a></h4>
+   <p>Contact: 919-556-3644 <br/>
+   <a href="http://www.abledog.com" target="_blank">www.abledog.com</a> <br/>
+  Dogs think, communicate, and behave differently. It is most often poor communication between dogs and humans that leads to behavior problems. It is our responsibility to teach our dogs the behaviors that we find appropriate. Through training, I work with you to improve your communication and build on the natural relationship you have with your dog. </p>
+  </li>
+ 	<li>
+ 	 <h4><a href="http://www.bestpawonline.com" target="_blank">Best Paw Forward Dog Education</a></h4>
+   <p>Contact: Frank Verni 919-557-2853 <a href="mailto:bestpaw4ward@gmail.com">bestpaw4ward@gmail.com</a><br/>
+   <a href="http://www.bestpawonline.com" target="_blank">www.bestpawonline.com</a>
+   Fuquay Varina, Holly Springs, Apex, Cary, Southwest Raleigh. Behavior problems, obedience, manners for puppies and adults.</p>
+  </li>
+ 	<li>
+ 	 <h4><a href="http://www.mypetsangel.com" target="_blank">My Pet's Angel</a></h4>
+   <p><a href="http://www.mypetsangel.com/contact_us.html" target="_blank">Contact Form</a><br/>
+   <a href="http://www.mypetsangel.com">www.mypetsangel.com</a></p>
+  </li>
+ 	<li>
+ 	 <h4><a href="http://www.borntoleadk9.com" target="_blank">Born to Lead K-9 Academy</a></h4>
+   <p>Contact: Ryan Douglas 919-938-3353<br/>
+   <a href="http://www.borntoleadk9.com" target="_blank">www.borntoleadk9.com</a></p>
+  </li>
+ 	<li>
+ 	 <h4><a href="http://hadnotcreekdogtrainingkennel.com" target="_blank">Canine Training Inc.</a></h4>
+   <p>Contact: Donnie &amp; Jessica Hult 252-393-2855<br/>
+   <a href="http://www.hadnotcreekkennels.com" target="_blank">www.hadnotcreekkennels.com</a></p>
 </li>
- 	<li><strong><a href="http://www.mypetsangel.com" target="_blank">My Pet's Angel</a></strong>
-<a href="http://www.mypetsangel.com/contact_us.html" target="_blank">Contact Form</a>
-<a href="http://www.mypetsangel.com">www.mypetsangel.com</a>
+ 	<li>
+ 	 <h4><a href="http://carolinadogtraining.com" target="_blank">Carolina Dog Training</a></h4>
+   <p>Contact: Elaine Pendell 919-349-0000 <a href="mailto:elaine@CarolinaDogTraining.com">elaine@CarolinaDogTraining.com</a><br/>
+   <a href="http://www.CarolinaDogTraining.com">www.CarolinaDogTraining.com</a><br/>
+   On &amp; Off-Leash In-Home &amp; Residency Training for a well balanced, peaceful and happy family pack!  Our personalized training program teaches you how to calmly, assertively, and consistently give your dog rules, boundries and limitations to correct and control unwanted behavior.</p>
 </li>
-</ul>
-<ul>
- 	<li><strong>Born to Lead K-9 Academy</strong>
-Contact: Ryan Douglas 919-938-3353
-<a href="http://www.borntoleadk9.com">www.borntoleadk9.com</a></li>
- 	<li><strong>Canine Training Inc.</strong>
-Contact: Donnie &amp; Jessica Hult 800-392-2855
-<a href="http://www.hadnotcreekkennels.com">www.hadnotcreekkennels.com</a></li>
- 	<li><strong>Carolina Dog Training</strong>
-Contact: Elaine Pendell 919-349-0000 <a href="mailto:elaine@CarolinaDogTraining.com">elaine@CarolinaDogTraining.com</a>
-On &amp; Off-Leash In-Home &amp; Residency Training for a well balanced, peaceful and happy family pack!  Our personalized training program teaches you how to calmly, assertively, and consistently give your dog rules, boundries and limitations to correct and control unwanted behavior.
-<a href="http://www.CarolinaDogTraining.com">www.CarolinaDogTraining.com</a></li>
- 	<li><strong>Communicanine Motivational Dog Training</strong>
-Contact: Molly Stone 919-523-4022 <a href="mailto:info@communicanine.com">info@communicanine.com</a>
-<a href="http://www.communicanine.com">www.communicanine.com</a></li>
- 	<li><strong>Dog Dynamics LLC</strong>
+ 	<li>
+ 	 <h4>Molly Stone</h4>
+    <p>Contact: Molly Stone 919-523-4022 <a href="mailto:spca@spcawake.org">spca@spcawake.org</a><br/>
+    <a href="http://www.spcawake.org" target="_blank">www.spcawake.org</a></p>
+  </li>
+ <!--Can't find her business
+ 	<li>
+ 	 <h4>Dog Dynamics LLC</h4>
 Contact: Joanne Murphy 919-349-2267 <a href="mailto:dog-dynamics@nc.rr.com">dog-dynamics@nc.rr.com</a>
 <a href="http://www.dogdynamicsnc.com">www.dogdynamicsnc.com</a>
-Specialize in aggression, fear/phobia, seperation anxiety.</li>
- 	<li><strong>Family Paws</strong>
-Contact: Jen Shryock 919-961-1608 <a href="mailto:jen@familypaws.com">jen@familypaws.com</a>
-<a href="http://www.familypaws.com">www.familypaws.com</a>
-Cary and surrounding areas.</li>
- 	<li><strong>Leader of the Pack</strong>
-Contact: Michelle Potter 919-556-5109 <a href="mailto:michelle.potter@adc.com">michelle.potter@adc.com</a>
-Wake Forest</li>
- 	<li><strong>Topline K9 Solutions</strong>
-Contact: Sylvie Pleasant 919-714-9846 <a href="mailto:GoodDogs@toplinek9solutions.com">GoodDogs@toplinek9solutions.com</a>
-<a href="http://www.toplinek9obedience.com">www.toplinek9obedience.com</a>
-Triangle area and surrounding cities. Private training, behavior modification, group classes including basics, AKC Canine Good Citizen, fiesty fido, pet therapy, search &amp; rescue. Specialize in aggression.</li>
+Specialize in aggression, fear/phobia, seperation anxiety.
+</li> 
+-->
+ 	<li>
+ 	 <h4><a href="http://familypaws.com" target="_blank">Family Paws</a></h4>
+   <p>Contact: Jen Shryock 919-961-1608 <a href="mailto:info@familypaws.com">info@familypaws.com</a><br/>
+   <a href="http://www.familypaws.com" target="_blank">www.familypaws.com</a><br/>
+   We offer professional support and guidance to help ease your transition from pet-parent to baby-parent with pet. Our two international parent education programs specialize in dog and baby/toddler dynamics. Our ongoing support and programs grow with your baby! Together we can build lasting bonds one phase at a time! Cary and surrounding areas.</p>
+  </li>
+  <!--Only Leader of the Pack was in Virginia
+ 	<li>
+ 	 <h4>Leader of the Pack</h4>
+   <p>Contact: Michelle Potter 919-556-5109 <a href="mailto:michelle.potter@adc.com">michelle.potter@adc.com</a><br/>
+   Wake Forest</p>
+</li>
+-->
+ 	<li>
+ 	 <h4><a href="http://toplinek9obedience.com" target="_blank">Topline K9 Solutions</a></h4>
+    <p>Contact: 919-714-9846 <a href="http://toplinek9obedience.com/raleigh-dog-training" target="_blank">Contact Form</a><br/>
+    <a href="http://www.toplinek9obedience.com" target="_blank">www.toplinek9obedience.com</a><br/>
+    Triangle area and surrounding cities. Private training, behavior modification, group classes including basics, AKC Canine Good Citizen, fiesty fido, pet therapy, search &amp; rescue. Specialize in aggression.</p>
+</li>
 </ul>
-&nbsp;
+
 <h3>Veterinarians</h3>
 <ul>
- 	<li><strong>All Walks of Life - Mobile Veterinary Services</strong>
-Contact: Dr. Edward Samuels 919-567-2965
-Praciticing excellence in everything that we do. From caring for your horse, dog, cat, bird, reptile, sheep or goat to keeping detailed medical records and providing exceptional customer service.</li>
- 	<li><strong>Creature Comforts Animal Hospital</strong>
-Contact: 919-387-3435 <a href="mailto:ccahospital@bellsouth.net">ccahospital@bellsouth.net</a>
-Dedicated to your pets quality of life.</li>
- 	<li><strong>Downtown Mobile Veterinary Services</strong></li>
-</ul>
-Dr. Heather Moeser, MS, DVM     919-917-8312   <a href="mailto:info@downtownmobilevet.com">info@downtownmobilevet.com</a>
-Providing for well and sick pets in the comfort of your home.
-<a title="Downtown Mobile Vet" href="http://downtownmobilevet.com" target="_blank">www.downtownmobilevet.com</a>
-<ul>
- 	<li><strong>Harmony Animal Hospital</strong>
-Contact: 919-303-3456    <a title="Harmony Animal Hospital" href="http://harmonyanimalhospital.net" target="_blank">www.harmonyanimalhospital.net</a>
-Located at: 2141 Ten Ten Road, Apex, NC 27539
-Dr. Jodi Reed, DVM - Where Quality Medicine Meets Compassionate Care.</li>
- 	<li><strong>Heritage Animal Hospital</strong>
-Contact: 919-453-1112 <a href="mailto:heritagevets@ctc.net">heritagevets@ctc.net</a>
-3122 Heritage Trade Dr, Wake Forest. Specialize in digital radiography.</li>
- 	<li><strong>Hidden Valley Animal Hospital</strong>
-Contact: 919-847-9396 <a href="mailto:b_lapham@yahoo.com">b_lapham@yahoo.com</a>
-2315 Lynn Rd, Raleigh Specialize in holistic and conventional veterinary medicine.</li>
+ 	<li>
+ 	 <h4><a href="http://www.allwalksoflifemobilevetservices.com" target="_blank">All Walks of Life - Mobile Veterinary Services</a></h4>
+   <p>Contact: Dr. Edward Samuels 919-567-2965 <br/>
+   <a href="http://www.allwalksoflifemobilevetservices.com" target="_blank">www.allwalksoflifemobilevetservices.com</a><br/>
+   Praciticing excellence in everything that we do. From caring for your horse, dog, cat, bird, reptile, sheep or goat to keeping detailed medical records and providing exceptional customer service.</p>
+  </li>
+ 	<li>
+ 	 <h4><a href="http://www.creaturecomfortsvet.com" target="_blank">Creature Comforts Animal Hospital</a></h4>
+   <p>Contact: 919-387-3435 <a href="mailto:frontdesk@creaturecomfortsvet.com">frontdest@creaturecomfortsvet.com</a><br/>
+   <a href="http://www.creaturecomfortsvet.com" target="_blank">www.creaturecomfortsvet.com</a>
+   Dedicated to your pets' quality of life.</p>
+  </li>
+ 	<li>
+ 	 <h4><a href="https://www.downtownmobilevet.com/" target="_blank">Downtown Mobile Veterinary Services</a></h4>
+ 	 <p>919-917-8312<br/>
+ 	 <a href="http://downtownmobilevet.com" target="_blank">www.downtownmobilevet.com</a>
+   Providing for well and sick pets in the comfort of your home.</p>
+  </li>
+ 	<li>
+ 	 <h4><a href="https://www.harmonyanimalhospital.net" target="_blank">Harmony Animal Hospital</a></h4>
+   <p>Contact: 919-303-3456 <br/>
+   <a href="http://harmonyanimalhospital.net" target="_blank">www.harmonyanimalhospital.net</a><br/>
+   2141 Ten Ten Road, Apex, NC 27539 <br/>
+   Dr. Jodi Reed, DVM - Where Quality Medicine Meets Compassionate Care.</p>
+  </li>
+ 	<li>
+ 	 <h4><a href="http://www.heritageanimalhospitalwakeforest.com" target="_blank">Heritage Animal Hospital</a></h4>
+   <p>Contact: 919-435-1978 <a href="mailto:heritageanimalhospital2012@gmail.com">heritageanimalhospital2012@gmail.com</a><br/>
+   <a href="http://www.heritageanimalhospitalwakeforest.com" target="_blank">www.heritageanimalhospitalwakeforest.com</a>
+   3122 Heritage Trade Dr, Wake Forest. Specializes in digital radiography.</p>
+  </li>
+ 	<li>
+ 	 <h4><a href="http://www.hiddenvalleyanimalhospital.com/" target="_blank">Hidden Valley Animal Hospital</a></h4>
+   <p>Contact: 919-600-7197 <a href="http://www.hiddenvalleyanimalhospital.com/leads/email_us/store/3792" target="_blank">Contact Form</a><br/>
+   2315 Lynn Rd, Raleigh Specializes in holistic and conventional veterinary medicine.</p>
+  </li>
 </ul>
