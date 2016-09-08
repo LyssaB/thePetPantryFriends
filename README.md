@@ -1,4 +1,4 @@
-<!--># thePetPantryFriends
+<!-- # thePetPantryFriends
 "Friends" page links for The Pet Pantry 
 -->
 <img class="alignright size-full wp-image-177" title="friends" src="http://feedyourpets.com/wp-content/uploads/2012/01/friends.png" alt="" width="271" height="150" />
