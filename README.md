@@ -176,7 +176,7 @@ Premier Doggy Day and Overnight Camp. Serving Durham and surrounding areas.</p>
 <h3>Pet Health Insurance</h3>
 <ul>
  	<li>
- 	 <h4 class="mod">Pet Insurance</h4>
+ 	 <h5>Pet Insurance</h5>
    <p>Contact: Sandra Ziglar <a href="petinsurance@bellsouth.net">petinsurance@bellsouth.net</a> <br/>
    Pet Insurance protects policyholders from the expense of accident, illness and routine care treatment. From behavior training to a late night visit to the emergency clinic, you can give your pet the best care available while controlling the costs. </p>
 </li>
@@ -251,7 +251,7 @@ Family-owned and operated, check out their about page to read about Josh!</p>
    A full service professional pet care company, locally owned and operated out of Apex. Offering a variety of services to keep your pet happy and your home safe including In-Home Pet Sitting, Dog Walking Service and New Puppy Service. Services start at just $13 and are available most areas of Apex, Cary, Holly Springs, Morrisville and Raleigh. </p>
 </li>
  	<li>
- 	 <h4 class="mod">Pet Paradise Pet Sitters</h4>
+ 	 <h5>Pet Paradise Pet Sitters</h5>
    <p>Contact: Duane Chier 919-414-8743 <a href="mailto:contactus@petparadisepetsitter.com">contactus@petparadisepetsitter.com</a><br/>
    We believe that pets are family. Whether they are furry, feathery, or otherwise, your pet's important to you. Wouldn’t you feel better knowing your pet is in his/her own environment, safe &amp; sound and will be there to greet you when you come home? </p>
 </li>
@@ -291,7 +291,7 @@ Family-owned and operated, check out their about page to read about Josh!</p>
    Orange, Durham and Chatham Counties, Apex and Cary. Specialize in equine care, elder animal care, critical care and overnights.</p>
 </li>
 <li>
- <h4 class="mod">Oasis Pet Sitting</h4>
+ <h5>Oasis Pet Sitting</h5>
  <p>Contact: April Rehbein 919-467-7452 <br/>
  Cary, Apex, Morrisville and parts of Raleigh.</p>
 </li>
@@ -305,7 +305,7 @@ Family-owned and operated, check out their about page to read about Josh!</p>
 <h3>Pet Transport</h3>
 <ul>
  	<li>
- 	<h4 class="mod">Critter Coach</h4>
+ 	<h5>Critter Coach</h5>
    <p>Contact: Dennis Money 919-876-3788 <a href="mailto:critterrides@aol.com">critterrides@aol.com</a> <br/>
    Pet taxi, emergency transport.</p>
   </li>
@@ -457,7 +457,7 @@ Our rescue started during the summer of 2004 with a focus on cat and kitten resc
    On &amp; Off-Leash In-Home &amp; Residency Training for a well balanced, peaceful and happy family pack!  Our personalized training program teaches you how to calmly, assertively, and consistently give your dog rules, boundries and limitations to correct and control unwanted behavior.</p>
 </li>
  	<li>
- 	 <h4 class="mod">Molly Stone</h4>
+ 	 <h5>Molly Stone</h5>
     <p>Contact: Molly Stone 919-523-4022 <a href="mailto:spca@spcawake.org">spca@spcawake.org</a><br/>
     <a href="http://www.spcawake.org" target="_blank">www.spcawake.org</a></p>
   </li>
