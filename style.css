@@ -11,13 +11,13 @@
 	border-color: #636363;
 }
 
-.navbar-nav li{
+.navbar-inverse .navbar-nav>li>a{
 	text-transform: uppercase;
-	font-color: #636363;
+	color: #636363;
 }
 
-.navbar-nav li a:hover {
-	font-color: black;
+.navbar-inverse .navbar-nav>li>a:hover {
+	color: black;
 }
 
 .navbar-inverse .navbar-toggle .icon-bar{
@@ -31,14 +31,19 @@
 body {
 	padding-top: 50px;
 	font-family: Calibri, Arial, sans-serif;
+  background: url(http://www.feedyourpets.com/wp-content/uploads/2016/10/20160818_153059.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .wrapper {
-	width: 75%;
+	width: 85%;
 	margin: auto;
-	background-color: #fff;
 	border-left: 1px solid #333;
 	border-right: 1px solid #333;
+	height: ;
 }
 
 .banner {
@@ -55,27 +60,37 @@ body {
 
 .reorder {
 	text-align: center;
-	width: 50%;
+	width: 100%;
 	margin: auto;
 }
 
-.reorder-body{
+.reorder-body {
 	border: 3px solid #55005d;
-	border-radius: 15px;
 	background-color: #55005d;
-	padding: 1.2em;
-	font-size: 3em;
-}
-
-.reorder-body a{
+	padding-bottom: .75em;
+	font-size: 1.2em;
 	color: white;
 }
 
+.reorder-body a{
+	font-size: 1.2em;
+	color: white;
+}
+
+.reorder h1{
+	font-size: 1.4em;
+}
+
 .reorder p{
-	padding-top: 2em;
 	font-size: 1.5em;
+	padding: .5em;
 }
 
 .header {
 	padding-bottom: 2em;
 }
+
+.dimmed {
+	background: rgba(255,255,255,.7);
+}
+
