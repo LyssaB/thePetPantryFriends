@@ -55,23 +55,20 @@
 				</div>
 			</div><!--end container-->
 		</nav><!--end nav-->
-		<div style="background-color: #f3f0e9;">
-			<div class="wrapper">
-				<div class="reorder header">
-					<h1>Need a repeat of your last order?</h1>
-				</div>
-				<div class="reorder reorder-body">
-					<a href="mailto:info@feedyourpets.com?subject=Repeat of Last Order&body=I would like a repeat of my last order please. Email or call if my account needs updating. Thank you!">CLICK HERE!</a>
-				</div><!--end reorder-body-->
-				<div class="reorder">
-					<p>We're making ordering even easier! We'll schedule you for the next available delivery day, and send you an email confirmation. We'll even give you a call if your account needs updating.
-					</p>
-				</div><!--end reorder-->
-				<div class="banner">
-					<a href="http://www.feedyourpets.com">No thanks, I need different items</a>
-				</div>				
-			</div><!--end wrapper-->
-		</div>
+		<div class="wrapper dimmed">
+			<div class="reorder reorder-body">
+				<a href="mailto:info@feedyourpets.com?subject=Repeat of Last Order&body=I would like a repeat of my last order please. Email or call if my account needs updating. Thank you!">
+					<h1>Need a repeat of your last order?</h1>CLICK HERE!
+				</a>
+			</div><!--end reorder-body-->
+			<div class="reorder">
+				<p>We're making ordering even easier! We'll schedule you for the next available delivery day, and send you an email confirmation. We'll even give you a call if your account needs updating.
+				</p>
+			</div><!--end reorder-->
+			<div class="banner">
+				<a href="http://www.feedyourpets.com">No thanks, I need different items</a>
+			</div>				
+		</div><!--end wrapper-->
 	</body>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
